@@ -68,8 +68,8 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ruben-ISCTE&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" alt="Ruben GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruben-ISCTE&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ruben-ISCTE&show_icons=true&theme=dark&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruben-ISCTE&layout=compact&theme=dark&hide_border=true" />
 </div>
 
 ---
