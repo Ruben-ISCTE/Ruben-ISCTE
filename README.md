@@ -67,10 +67,7 @@
 
 ## 📈 GitHub Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ruben-ISCTE&show_icons=true&theme=dark&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruben-ISCTE&layout=compact&theme=dark&hide_border=true" />
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=Ruben-ISCTE&show_icons=true&theme=dark&cache_seconds=86400" />
 
 ---
 
