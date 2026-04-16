@@ -59,10 +59,10 @@
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| 🎮 [DonkeyKongPOO](https://github.com/Rybas23/DonkeyKongPOO) | Donkey Kong game in Java (POO) | Java |
-| [🤖 projetoIA](https://github.com/Ruben-ISCTE/projetoIA) | Artificial Intelligence academic project | Python |
-| [📊 ProjetoPPM](https://github.com/Ruben-ISCTE/ProjetoPPM) | Project and Portfolio Management system | Scala |
-| [🖼️ projetoDAA](https://github.com/Ruben-ISCTE/projetoDAA) | Seam Carving algorithm implementation | Jupyter Notebook |
+| 🎮 [DonkeyKong_POO](https://github.com/Rybas23/DonkeyKongPOO) | Donkey Kong game in Java (POO) | Java |
+| [🤖 FruitCatcher_IA](https://github.com/Ruben-ISCTE/projetoIA) | Artificial Intelligence academic project | Python |
+| [📊 CaptureGO_PPM](https://github.com/Ruben-ISCTE/ProjetoPPM) | Project and Portfolio Management system | Scala |
+| [🖼️ SeamCarving_DAA](https://github.com/Ruben-ISCTE/projetoDAA) | Seam Carving algorithm implementation | Jupyter Notebook |
 
 ---
 
